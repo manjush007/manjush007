@@ -1,85 +1,75 @@
-# Hi, I'm Manjush Premkumar 👋
+# Hi there 👋, I'm Manjush Premkumar
 
-### Software Developer · Java · Backend · AI
+### 💻 Aspiring Java Developer | Spring Boot | Backend | AI
 
-I’m a software developer focused on building reliable backend systems, REST APIs, and AI-powered applications.
+## 💫 About Me
 
-I enjoy working with Java, Spring Boot, Python, and modern AI technologies to solve practical problems and build scalable software.
+I'm a Java Developer focused on building backend applications and REST APIs using Java and Spring Boot.
 
----
+🔭 I'm currently building backend and AI-powered applications.  
+🌱 I'm currently strengthening my skills in Spring Boot, DSA, and System Design.  
+👯 I'm interested in collaborating on real-world software projects.
 
-## 🛠️ Tech Stack
+## 🌐 Socials
 
-**Languages**
-- Java
-- Python
-- JavaScript
+<a href="https://www.linkedin.com/in/manjush-premkumar-63228b320/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
 
-**Backend**
-- Spring Boot
-- REST APIs
-- Node.js
-- FastAPI
-- MongoDB
-- MySQL
+<a href="mailto:manjushpremkumar00@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
 
-**AI / Machine Learning**
-- NLP
-- LLMs
-- RAG
-- Speech-to-Text
-- AI-powered applications
+## 💻 Tech Stack
 
-**Frontend**
-- React
-- HTML
-- CSS
-
-**Tools**
-- Git
-- GitHub
-- Docker
-- Postman
-
----
+<a href="https://www.java.com/">
+  <img src="https://skillicons.dev/icons?i=java" width="45"/>
+</a>
+<a href="https://spring.io/">
+  <img src="https://skillicons.dev/icons?i=spring" width="45"/>
+</a>
+<a href="https://www.python.org/">
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js" width="45"/>
+</a>
+<a href="https://nodejs.org/">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/>
+</a>
+<a href="https://react.dev/">
+  <img src="https://skillicons.dev/icons?i=react" width="45"/>
+</a>
+<a href="https://www.mysql.com/">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+</a>
+<a href="https://www.mongodb.com/">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="45"/>
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" width="45"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
 
 ## 🚀 Featured Projects
 
-### ⚖️ AutoLegal — AI Legal Document Drafting
-AI-powered legal document drafting system designed to automate the generation of structured legal documents.
+⚖️ **[AutoLegal](https://github.com/manjush007/Auto-legal-drafting-sysytem)**  
+AI-powered legal document drafting system using NLP, LLMs, Node.js, and MongoDB.
 
-**Tech:** JavaScript · Node.js · MongoDB · REST APIs · NLP · LLMs
+🎙️ **[Class-Room Analysis](https://github.com/manjush007/Class-Room-Analysis)**  
+AI-powered classroom voice analytics system using Python, FastAPI, and speech processing.
 
-### 🎙️ Class-Room Analysis — AI Classroom Voice Analytics
-AI-powered system that processes classroom audio to generate transcripts, identify speakers, and analyze classroom participation and interaction.
+💪 **[GymMind](https://github.com/manjush007/GymMind)**  
+AI-powered fitness assistant with personalized workouts, diet recommendations, and habit tracking.
 
-**Tech:** Python · FastAPI · Faster-Whisper · FFmpeg · VAD
+🧴 **[Skin-Fluence](https://github.com/manjush007/Skin-fluence)**  
+Machine-learning based skin analysis and cosmetic recommendation system.
 
-### 💪 GymMind — AI Fitness Assistant
-AI-powered fitness platform providing personalized workout and diet recommendations, habit tracking, and exercise-related insights.
+## 📊 GitHub Stats
 
-**Tech:** Python · FastAPI · React · MongoDB · AI/ML
-
-### 🧴 Skin-Fluence — Skin Analysis & Recommendation
-Machine-learning based application for skin analysis and personalized cosmetic product recommendations.
-
-**Tech:** Python · Machine Learning
-
----
-
-## 🎯 What I'm Currently Focusing On
-
-- Java & Spring Boot
-- Backend Development
-- REST API Design
-- Data Structures & Algorithms
-- AI/LLM Applications
-- System Design
-
----
-
-## 📫 Connect With Me
-
-**LinkedIn:** [Manjush Premkumar](https://www.linkedin.com/in/manjush-premkumar-63228b320/)
-
-**Email:** manjushpremkumar00@gmail.com
+[![GitHub Streak](https://streak-stats.demolab.com/?user=manjush007)](https://github.com/DenverCoder1/github-readme-streak-stats)
